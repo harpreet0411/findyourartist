@@ -1,0 +1,130 @@
+.main{
+background-color: antiquewhite;
+}
+
+.main_header{
+    
+    height:150px;
+    border: 1px solid;
+}
+
+.artist{
+    font-family: fantasy;
+    color: red;
+}
+.logo{
+    height: 100%;
+    width: 15%; 
+    border:1px solid;
+    float: left;
+    margin-right: 25px;
+    content: url(artistpics/logo.png);
+}
+
+.header_links{
+    overflow: auto; 
+    margin-left: 150px;
+    border: 1px solid;
+}
+
+.link{
+    
+}
+
+.links_1{
+    margin-right: 100px;
+}
+
+.links_2{
+    list-style: none;
+    float:left; 
+    margin-right: 20px;
+}
+
+li.a{
+    text-decoration: none;
+}
+.heading{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.search_bar{
+    float:left;
+    margin-left: 550px; 
+    height: 90%;
+}
+
+.gallery_1{
+    min-height: 50%;
+    /*border: 1px solid;*/
+}
+
+.con_1{
+    float: left;
+    width: 38%;
+    margin: 0px 0px 0px 10px;
+}
+.image_1{
+    content: url(artistpics/ar_rehman.jpg);
+    height: 30%;
+    /*width: 30%;*/
+    border: 1px solid;
+
+}
+
+.con_2{
+    float: left;
+    overflow: auto;
+    width: 30%;
+}
+.image_2{
+    content: url(artistpics/selena_gomez.jpg);
+    height: 30%;
+    /* width: 30%; */
+    border: 1px solid;
+}
+.con_3{
+    width: 30%;
+    overflow: auto;
+}
+.image_3{
+    content: url(artistpics/maxresdefault.jpg);
+    height: 30%;
+    width: 98%;
+    border: 1px solid;
+}
+
+.gallery_2{
+    min-height: 40%;
+    /*border: 1px solid;*/
+}
+.image_4{
+    content: url(artistpics/band.jpg);
+    height: 30%;
+    /* width: 30%; */
+    border: 1px solid;
+}
+.con_4{
+    float: left;
+}
+
+.con{
+    text-align: center;
+}
+.content_2{
+    font-size: 18px;
+    font-style: italic;
+}
+.contact_us_1{
+    text-align: center;
+}
+
+.form{
+    float: left;
+    min-height: 20%;
+    margin: 0px 330px 0px 0px;
+    
+}
+
+.address{
